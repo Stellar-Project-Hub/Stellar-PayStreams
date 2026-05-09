@@ -1,0 +1,13 @@
+{
+  "name": "stellar-paystreams-integration-tests",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@stellar/stellar-sdk": "11.3.0",
+    "typescript": "5.2.2",
+    "vitest": "1.4.0"
+  }
+}
