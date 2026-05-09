@@ -1,6 +1,12 @@
 # Stellar-PayStreams
 
-A decentralized protocol for creating real-time token streams and recurring subscriptions on [Soroban](https://soroban.stellar.org), complete with a frontend dashboard for managing active streams.
+> A decentralized protocol for creating real-time token streams and recurring subscriptions on [Soroban](https://soroban.stellar.org), complete with a frontend dashboard for managing active streams.
+
+[![CI](https://github.com/Stellar-Project-Hub/Stellar-PayStreams/actions/workflows/ci.yml/badge.svg)](https://github.com/Stellar-Project-Hub/Stellar-PayStreams/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Rust](https://img.shields.io/badge/rust-stable-orange.svg)](https://www.rust-lang.org)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 
 ## Overview
 
